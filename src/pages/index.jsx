@@ -32,14 +32,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Eder Refrigeração</title>
+        <title>Home | Eder Refrigeração - Lençóis Paulista </title>
         <meta
           name="description"
           content="Eder Refrigeração - Referência em Qualidade e Ótimos Preços em Lençóis Pta e Região"
         />
         <meta
           name="keywords"
-          content=""
+          content="serviços, manutenção, ar condicionado, lava roupas,tanquinho, geladeira, freezer"
         />
         <meta name="author" content="Eder Refrigeração" />
 
